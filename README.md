@@ -19,31 +19,13 @@
 
 ---
 
-## 💼 Work Experience
-
-**HaysMac** (June 2023 to March 2024)  
-_Service Desk Team Lead_
-
-- Extended ITSM system (Freshservice) to fit business needs.
-- Coached and managed a team of 3 analysts.
-- Owned Incident, Problem, and Change management processes.
-
-**HW Fisher** (February 2019 to June 2023)  
-_Junior IT Support Analyst → Service Desk Supervisor_
-
-- Created a console application to streamline laptop setups by department.
-- Guided junior members of staff.
-- Troubleshot and owned service desk tasks from start to finish.
-
----
-
 ## 🛠️ Skills
 
 ### Communication & Leadership
-I developed strong communication and leadership skills while working at **HaysMac**, managing and coaching a team of analysts. My role required me to clearly communicate technical solutions, guide junior staff, and collaborate with stakeholders to ensure smooth operation of ITSM processes. These skills seamlessly translated into my software development journey—whether it's explaining code concepts in team settings or pair programming sessions, I’m confident in keeping communication clear and effective.
+I developed strong communication and leadership skills while working as a Service Desk Lead, managing and coaching a team of analysts. My role required me to clearly communicate technical solutions, guide junior staff, and collaborate with stakeholders to ensure smooth operation of ITSM processes. These skills seamlessly translated into my software development journey—whether it's explaining code concepts in team settings or pair programming sessions, I’m confident in keeping communication clear and effective.
 
 ### Problem Solving & Automation
-During my time at **HW Fisher**, I identified inefficiencies in the laptop setup process and proactively developed a console application to streamline the process. The tool organized software installations by department, significantly reducing setup time and manual errors. This hands-on experience in solving real-world problems through automation sharpened my problem-solving mindset—now applied when building software solutions that improve workflows and efficiency.
+During my time as an IT Service Desk Analyst, I identified inefficiencies in the laptop setup process and proactively developed a console application to streamline the process. The tool organized software installations by department, significantly reducing setup time and manual errors. This hands-on experience in solving real-world problems through automation sharpened my problem-solving mindset—now applied when building software solutions that improve workflows and efficiency.
 
 ### Process Management & Continuous Improvement
 I took ownership of **Incident, Problem, and Change management processes**, ensuring they ran efficiently. I’m adept at following structured processes while spotting opportunities for improvement, such as extending ITSM systems like Freshservice. This process-driven approach now aids me in writing clean, maintainable code, following best practices like test-driven development, and continuously iterating on my projects.
