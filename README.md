@@ -15,6 +15,7 @@
 | ---------------------------- | ------------------------------------------------------------------ | ----------------- |
 | **NC News Social Media App** | A social news aggregation, web content rating, and discussion site. | React, Jest, etc. |
 | **The Daily Dish**           | A meal planning application.                                       | Svelte, JavaScript, Jest |
+| **Portfolio**                | Currently in the works                                             |                   |
 | **More to come!**            | Stay tuned to see!                                                 |                   |
 
 ---
