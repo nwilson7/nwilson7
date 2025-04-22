@@ -13,7 +13,7 @@
 
 | Name                         | Description                                                        | Tech/tools        |
 | ---------------------------- | ------------------------------------------------------------------ | ----------------- |
-| **NC News Social Media App** | A social news aggregation, web content rating, and discussion site. | React, Jest, etc. |
+| **NC News Social Media App** | A social news aggregation, web content rating, and discussion site. Revamp pending | React, Jest, etc. |
 | **The Daily Dish**           | A meal planning application.                                       | Svelte, JavaScript, Jest |
 | **Portfolio**                | Currently in the works                                             | React, Tailwindcss, Emailjs |
 | **More to come!**            | Stay tuned to see!                                                 |                   |
